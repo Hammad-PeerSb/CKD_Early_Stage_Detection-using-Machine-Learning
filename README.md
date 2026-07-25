@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 
-> 🚀 **Live Demo:** [Launch the Interactive Web App](https://ckdearlystagedetection-using-machine-learning-l4xppe29mh6ghsxz.streamlit.app)
+> 🚀 **Live Demo:** https://ckdearlystagedetection-using-machine-learning-peersb.streamlit.app/
 
 ---
 
