@@ -231,7 +231,7 @@ if st.button("Predict CKD"):
         border-left:8px solid #EF4444;
         ">
 
-        <h3 style="color:#DC2626;">⚠️ High Risk of Chronic Kidney Disease</h3>
+        <h3 style="color:#DC2626;"> ⚠️ High Risk of Chronic Kidney Disease</h3>
 
         <p style="font-size:18px;">
         The patient is likely to have Chronic Kidney Disease.
