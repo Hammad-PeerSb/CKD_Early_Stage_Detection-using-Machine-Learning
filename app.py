@@ -160,7 +160,7 @@ with col1:
 
 with col2:
 
-    st.image("D:\ML,AI & DS PROJECTS\ml_work\kidney .png", width=200)
+    st.image("kidney .png", width=200)
 st.divider()
 
 
